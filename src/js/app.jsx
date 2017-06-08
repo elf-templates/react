@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import styles from '../css/main.scss'
+import styles from '../css/package.scss'
 
 class Hello extends React.Component {
   render() {
